@@ -53,8 +53,7 @@ python 2048.py
 
 ## Screenshots
 
-C:\Users\sahil\2048-Game-Images
-
+![2048](https://github.com/sahil-vanarse/2048-Game-DSA/assets/119086415/5847928b-4dc0-4a11-9301-46e57a153951)
 
 ## Contact
 

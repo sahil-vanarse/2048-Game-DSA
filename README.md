@@ -53,7 +53,7 @@ python 2048.py
 
 ## Screenshots
 
-![Game Screenshot](C:\Users\sahil\2048-Game-Images)
+C:\Users\sahil\2048-Game-Images
 
 
 ## Contact
